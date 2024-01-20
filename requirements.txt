@@ -1,0 +1,6 @@
+# requirements.txt
+
+tensorflow==2.7.0
+
+# Seaborn for data visualization
+seaborn==0.11.2
