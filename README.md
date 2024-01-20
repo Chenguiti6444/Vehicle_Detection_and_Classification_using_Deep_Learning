@@ -24,5 +24,3 @@ This repository contains the implementation and documentation for our Research a
 We express our gratitude to Professor Mehdi Zakroum for his invaluable guidance and support throughout this project.
 
 Feel free to reach out if you have any questions or suggestions!
-
-**Best regards,**
