@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation and documentation for our Research and Development Project on "Vehicle Detection and Classification using Deep Learning". The project focuses on leveraging state-of-the-art deep learning techniques to accurately detect and classify vehicles in various scenarios.
+This repository contains the implementation and documentation for our Research and Development Project on "Vehicle Detection and Classification using Deep Learning". The project focuses on leveraging state-of-the-art deep learning techniques to accurately detect and classify low quality images of land vehicles in various scenarios.
 
 ## Instructions for Use
 
