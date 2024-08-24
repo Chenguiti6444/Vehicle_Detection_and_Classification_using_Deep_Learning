@@ -8,7 +8,7 @@ This repository contains the implementation and documentation for our Research a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Chenguiti6444/Vehicles_Classification_RnD_Project.git
+   https://github.com/Chenguiti6444/Vehicle_Detection_and_Classification_using_Deep_Learning.git
    ```
 
 2. **Install Dependencies:**
