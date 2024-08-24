@@ -33,7 +33,7 @@ Feel free to reach out if you have any questions or suggestions!
 
 # Détection et Classification de Véhicules à l'aide de l'Apprentissage Profond
 
-## Aperçu
+## Introduction
 
 Ce dépôt contient l'implémentation et la documentation de notre projet de recherche et développement sur la "Détection et Classification des Véhicules à l'aide de l'Apprentissage Profond". Le projet se concentre sur l'utilisation de techniques d'apprentissage profond de pointe pour détecter et classifier avec précision des images de faible qualité de véhicules terrestres dans divers scénarios.
 
