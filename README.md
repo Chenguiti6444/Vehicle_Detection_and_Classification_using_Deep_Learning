@@ -1,3 +1,5 @@
+#### English Version
+
 # Vehicle Detection and Classification using Deep Learning
 
 ## Overview
@@ -30,6 +32,7 @@ Feel free to reach out if you have any questions or suggestions!
 **Email**: [chenguiti.elmehdi@gmail.com](mailto:chenguiti.elmehdi@gmail.com)
 
 ---
+#### Version Française
 
 # Détection et Classification de Véhicules à l'aide de l'Apprentissage Profond
 
