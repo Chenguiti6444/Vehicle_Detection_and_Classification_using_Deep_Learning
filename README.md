@@ -9,11 +9,11 @@ This repository contains the implementation and documentation for our Research a
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Chenguiti6444/Vehicle_Detection_and_Classification_using_Deep_Learning.git
-   cd Vehicle_Detection_and_Classification_using_Deep_Learning
    ```
 
 2. **Install Dependencies:**
    ```bash
+   cd Vehicle_Detection_and_Classification_using_Deep_Learning
    pip install -r requirements.txt
    ```
 
