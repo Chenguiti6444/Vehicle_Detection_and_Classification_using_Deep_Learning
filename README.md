@@ -31,7 +31,7 @@ Feel free to reach out if you have any questions or suggestions!
 
 ---
 
-# Détection et Classification des Véhicules à l'aide de l'Apprentissage Profond
+# Détection et Classification de Véhicules à l'aide de l'Apprentissage Profond
 
 ## Aperçu
 
