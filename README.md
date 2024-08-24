@@ -4,6 +4,8 @@
 
 This repository contains the implementation and documentation for our Research and Development Project on "Vehicle Detection and Classification using Deep Learning". The project focuses on leveraging state-of-the-art deep learning techniques to accurately detect and classify low quality images of land vehicles in various scenarios.
 
+You can read our detailed research paper on this project [here](https://github.com/Chenguiti6444/Vehicle_Detection_and_Classification_using_Deep_Learning/blob/main/Detection_and_Classification_of_Vehicles_using_Deep_Learning_Paper.pdf).
+
 ## Instructions for Use
 
 1. **Clone the Repository:**
